@@ -75,3 +75,15 @@ $ ./demo.py --webcam --show-original
 - CycleGAN https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/tree/master/models
 - facenet-pytorch https://github.com/timesler/facenet-pytorch
 - Face detection with OpenCV and deep learning https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
+
+## 참고
+
+CycleGAN을 이용하여 학습시킨 모델로 얼굴 사진을 Joker 처럼 만들어 주는 Junsik Whang(황준식)님의 "jokerise" 프로젝트를 이용해서, 이를 간단히 웹으로 구현해보았습니다.
+
+https://jokerise.hyojun.me/
+
+이미 거의 다 지난 할로윈(1시간도 안 남음...)이지만, 지난 주말에 핼러윈을 즐기지 못했다! 라면 재미 삼아 한번 해보시죠 :D
+
+소스코드는 아래에서 보실 수 있습니다.
+jokerise - https://github.com/junkwhinger/jokerise
+jokerise-web - https://github.com/DevinJeon/jokerise-web
